@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OSPanel\\home\\task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\app\\Providers\\AppServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Providers\\AppServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\factories\\UserFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\UserFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\seeders\\AdminSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\AdminSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\factories\\VenueFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\VenueFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\factories\\EventFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\EventFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\app\\Providers\\WeatherServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Providers\\WeatherServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\WeatherController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\WeatherController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\VenueController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\VenueController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\ProfileController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\ProfileController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\EventController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\EventController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\app\\Models\\Event.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Event.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\seeders\\UserSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\UserSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\seeders\\VenueSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\VenueSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\seeders\\EventSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\EventSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\migrations\\2024_07_23_051933_create_venues_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2024_07_23_051933_create_venues_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\migrations\\2024_07_23_051934_create_events_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2024_07_23_051934_create_events_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\weather.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\weather.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\welcome.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\welcome.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\dashboard.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\dashboard.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\venues\\index.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\venues\\index.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\venues\\edit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\venues\\edit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\venues\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\venues\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\layouts\\navigation.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\layouts\\navigation.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\layouts\\guest.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\layouts\\guest.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\layouts\\app.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\layouts\\app.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\events\\index.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\events\\index.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\events\\edit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\events\\edit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\resources\\views\\events\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\events\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\database\\migrations\\2024_07_25_061911_add_is_admin_to_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2024_07_25_061911_add_is_admin_to_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OSPanel\\home\\task\\app\\Models\\Venue.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Venue.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppServiceProvider.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\app\\Providers\\AppServiceProvider.php",
+              "RelativeDocumentMoniker": "app\\Providers\\AppServiceProvider.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\app\\Providers\\AppServiceProvider.php",
+              "RelativeToolTip": "app\\Providers\\AppServiceProvider.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T08:39:36.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherServiceProvider.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\app\\Providers\\WeatherServiceProvider.php",
+              "RelativeDocumentMoniker": "app\\Providers\\WeatherServiceProvider.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\app\\Providers\\WeatherServiceProvider.php",
+              "RelativeToolTip": "app\\Providers\\WeatherServiceProvider.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:41:22.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventFactory.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\factories\\EventFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\EventFactory.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\factories\\EventFactory.php",
+              "RelativeToolTip": "database\\factories\\EventFactory.php",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:35:58.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VenueFactory.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\factories\\VenueFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\VenueFactory.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\factories\\VenueFactory.php",
+              "RelativeToolTip": "database\\factories\\VenueFactory.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:36:28.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserFactory.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\factories\\UserFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\UserFactory.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\factories\\UserFactory.php",
+              "RelativeToolTip": "database\\factories\\UserFactory.php",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:36:18.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminSeeder.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\seeders\\AdminSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\AdminSeeder.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\seeders\\AdminSeeder.php",
+              "RelativeToolTip": "database\\seeders\\AdminSeeder.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T06:11:17.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherController.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\WeatherController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\WeatherController.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\WeatherController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\WeatherController.php",
+              "ViewState": "AQIAAGkAAAAAAAAAAADwv4gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:40:42.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileController.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\ProfileController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\ProfileController.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\ProfileController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\ProfileController.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:15:21.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventController.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\EventController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\EventController.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\EventController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\EventController.php",
+              "ViewState": "AQIAAGUAAAAAAAAAAADwv4QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:14:12.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\app\\Models\\User.php",
+              "RelativeDocumentMoniker": "app\\Models\\User.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\app\\Models\\User.php",
+              "RelativeToolTip": "app\\Models\\User.php",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T05:53:27.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Event.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\app\\Models\\Event.php",
+              "RelativeDocumentMoniker": "app\\Models\\Event.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\app\\Models\\Event.php",
+              "RelativeToolTip": "app\\Models\\Event.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:13:38.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VenueController.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\VenueController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\VenueController.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\VenueController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\VenueController.php",
+              "ViewState": "AQIAACUAAAAAAAAAAADwv0QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:39:07.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseSeeder.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\seeders\\DatabaseSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\DatabaseSeeder.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\seeders\\DatabaseSeeder.php",
+              "RelativeToolTip": "database\\seeders\\DatabaseSeeder.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T06:11:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserSeeder.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\seeders\\UserSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\UserSeeder.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\seeders\\UserSeeder.php",
+              "RelativeToolTip": "database\\seeders\\UserSeeder.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T06:24:03.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VenueSeeder.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\seeders\\VenueSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\VenueSeeder.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\seeders\\VenueSeeder.php",
+              "RelativeToolTip": "database\\seeders\\VenueSeeder.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:33:23.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventSeeder.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\seeders\\EventSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\EventSeeder.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\seeders\\EventSeeder.php",
+              "RelativeToolTip": "database\\seeders\\EventSeeder.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:33:15.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "2024_07_23_051933_create_venues_table.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\migrations\\2024_07_23_051933_create_venues_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2024_07_23_051933_create_venues_table.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\migrations\\2024_07_23_051933_create_venues_table.php",
+              "RelativeToolTip": "database\\migrations\\2024_07_23_051933_create_venues_table.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:33:41.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "2024_07_23_051934_create_events_table.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\migrations\\2024_07_23_051934_create_events_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2024_07_23_051934_create_events_table.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\migrations\\2024_07_23_051934_create_events_table.php",
+              "RelativeToolTip": "database\\migrations\\2024_07_23_051934_create_events_table.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:33:34.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "weather.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\weather.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\weather.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\weather.blade.php",
+              "RelativeToolTip": "resources\\views\\weather.blade.php",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvycAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T06:21:51.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Controller.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\Controller.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Controller.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\app\\Http\\Controllers\\Controller.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:14:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "index.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\venues\\index.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\venues\\index.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\venues\\index.blade.php",
+              "RelativeToolTip": "resources\\views\\venues\\index.blade.php",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvx8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T06:30:05.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "edit.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\venues\\edit.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\venues\\edit.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\venues\\edit.blade.php",
+              "RelativeToolTip": "resources\\views\\venues\\edit.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:08:42.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "create.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\venues\\create.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\venues\\create.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\venues\\create.blade.php",
+              "RelativeToolTip": "resources\\views\\venues\\create.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:08:22.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dashboard.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\dashboard.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\dashboard.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\dashboard.blade.php",
+              "RelativeToolTip": "resources\\views\\dashboard.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T05:54:46.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "welcome.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\welcome.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\welcome.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\welcome.blade.php",
+              "RelativeToolTip": "resources\\views\\welcome.blade.php",
+              "ViewState": "AQIAADYAAAAAAAAAAADwv0YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T05:54:35.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "web.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T06:44:30.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "navigation.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\layouts\\navigation.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\layouts\\navigation.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\layouts\\navigation.blade.php",
+              "RelativeToolTip": "resources\\views\\layouts\\navigation.blade.php",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:35:00.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "guest.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\layouts\\guest.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\layouts\\guest.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\layouts\\guest.blade.php",
+              "RelativeToolTip": "resources\\views\\layouts\\guest.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:34:57.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\layouts\\app.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\layouts\\app.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\layouts\\app.blade.php",
+              "RelativeToolTip": "resources\\views\\layouts\\app.blade.php",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:34:37.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "create.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\events\\create.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\events\\create.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\events\\create.blade.php",
+              "RelativeToolTip": "resources\\views\\events\\create.blade.php",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:06:31.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "edit.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\events\\edit.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\events\\edit.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\events\\edit.blade.php",
+              "RelativeToolTip": "resources\\views\\events\\edit.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:06:26.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "index.blade.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\resources\\views\\events\\index.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\events\\index.blade.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\resources\\views\\events\\index.blade.php",
+              "RelativeToolTip": "resources\\views\\events\\index.blade.php",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T05:54:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "2024_07_25_061911_add_is_admin_to_users_table.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\database\\migrations\\2024_07_25_061911_add_is_admin_to_users_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2024_07_25_061911_add_is_admin_to_users_table.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\database\\migrations\\2024_07_25_061911_add_is_admin_to_users_table.php",
+              "RelativeToolTip": "database\\migrations\\2024_07_25_061911_add_is_admin_to_users_table.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T06:20:08.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Venue.php",
+              "DocumentMoniker": "D:\\OSPanel\\home\\task\\app\\Models\\Venue.php",
+              "RelativeDocumentMoniker": "app\\Models\\Venue.php",
+              "ToolTip": "D:\\OSPanel\\home\\task\\app\\Models\\Venue.php",
+              "RelativeToolTip": "app\\Models\\Venue.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T07:14:03.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
